@@ -30,7 +30,7 @@ The real one runs on the attacks my sites actually block. There are four games o
 
 ### `jack@jackwent:~$ snake --eat ~/contributions`
 
-<img src="https://raw.githubusercontent.com/JackWent/JackWent/output/snake.svg" alt="A snake eating my GitHub contribution graph" width="100%">
+<img src="https://raw.githubusercontent.com/JackWent/JackWent/refs/heads/output/snake.svg" alt="A snake eating my GitHub contribution graph" width="100%">
 
 ### `jack@jackwent:~$ tail -n 5 ~/blog/rss.xml`
 
