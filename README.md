@@ -34,8 +34,7 @@ The real one runs on the attacks my sites actually block. There are four games o
 
 ### `jack@jackwent:~$ tail -n 5 ~/blog/rss.xml`
 
-<!-- BLOG-POST-LIST:START -->
-- `16 Nov 26` [Build a Windows App for Your Self-Hosted AI Assistant with Tauri (Rust)](https://jackwent.co.uk/jarvis-ai-windows-app-tauri/)
+<!-- BLOG-POST-LIST:START -->- `16 Nov 26` [Build a Windows App for Your Self-Hosted AI Assistant with Tauri &lpar;Rust&rpar;](https://jackwent.co.uk/jarvis-ai-windows-app-tauri/)
 - `14 Nov 26` [Renaming My SaaS: SkillVortex Is Now SkillsLedger](https://jackwent.co.uk/renaming-skillvortex-to-skillsledger/)
 - `07 Nov 26` [Hey Jarvis: A Web Page I Can Talk To](https://jackwent.co.uk/jarvis-talking-web-page/)
 - `02 Nov 26` [Meshtastic in Home Assistant: A Roof Antenna Node and a Mesh Dashboard](https://jackwent.co.uk/meshtastic-home-assistant-mqtt/)
