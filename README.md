@@ -34,11 +34,11 @@ The real one runs on the attacks my sites actually block. There are four games o
 
 ### `jack@jackwent:~$ tail -n 5 ~/blog/rss.xml`
 
-<!-- BLOG-POST-LIST:START -->- `22 Nov 26` [Building My Own Rack Temperature Sensor with an ESP32](https://jackwent.co.uk/esp32-rack-temperature-monitor/)
+<!-- BLOG-POST-LIST:START -->- `28 Nov 26` [Connect Claude to Home Assistant with MCP: What I Allow and What I Block](https://jackwent.co.uk/home-assistant-mcp-server-claude/)
+- `22 Nov 26` [Building My Own Rack Temperature Sensor with an ESP32](https://jackwent.co.uk/esp32-rack-temperature-monitor/)
 - `21 Nov 26` [Security Monitoring at Home with Wazuh](https://jackwent.co.uk/wazuh-security-monitoring-at-home/)
 - `16 Nov 26` [pfSense CE and Plus Are Merging: What Changes in 26.10 and How I&#39;ll Upgrade](https://jackwent.co.uk/pfsense-26-10-ce-plus-merge/)
 - `16 Nov 26` [Build a Windows App for Your Self-Hosted AI Assistant with Tauri &lpar;Rust&rpar;](https://jackwent.co.uk/jarvis-ai-windows-app-tauri/)
-- `14 Nov 26` [Renaming My SaaS: SkillVortex Is Now SkillsLedger](https://jackwent.co.uk/renaming-skillvortex-to-skillsledger/)
 <!-- BLOG-POST-LIST:END -->
 
 Free browser tools as well: a [subnet calculator](https://jackwent.co.uk/subnet-calculator/) for IPv4 and IPv6 and a [live map](https://jackwent.co.uk/live-attack-map/) of the attacks my sites block.
